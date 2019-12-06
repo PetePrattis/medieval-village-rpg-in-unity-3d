@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Crate
+  - Crate_Open
+  - Knight
+  - char
+  - target
+  - render_cam
+  - MainCameraK
+  - Maul
+  - DaggerCase
+  - Dagger
+  - Sword
+  - Hand
+  - approach
+  - talk
+  - dig
+  - interactd
+  - dialogue
+  - text
+  - shield
+  - prize1
+  - prize2
+  - prize3
+  - ale
+  - prize4
+  - finish
+  - thief
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
