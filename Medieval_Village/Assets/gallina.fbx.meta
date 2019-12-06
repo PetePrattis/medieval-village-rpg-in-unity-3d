@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 29edcabb1a3df5c48a98c617253bd5d5
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone.001
+    100004: Bone.002
+    100006: Bone.002_end
+    100008: Bone.003
+    100010: Bone.004
+    100012: Bone.005
+    100014: Bone.006
+    100016: Bone.007
+    100018: Bone.008
+    100020: Bone.009
+    100022: Bone.010
+    100024: Bone.010_end
+    100026: Bone.011
+    100028: Bone.011_end
+    100030: Bone.012
+    100032: Bone.012_end
+    100034: Bone.013
+    100036: Bone.013_end
+    100038: Bone.014
+    100040: Bone.014_end
+    100042: Bone.015
+    100044: Bone.015_end
+    100046: Bone.016
+    100048: Bone.016_end
+    100050: Bone.017
+    100052: Bone.017_end
+    100054: Cilindro
+    100056: Cilindro.001
+    100058: Cilindro.010
+    100060: Esqueleto
+    100062: //RootNode
+    400000: Bone
+    400002: Bone.001
+    400004: Bone.002
+    400006: Bone.002_end
+    400008: Bone.003
+    400010: Bone.004
+    400012: Bone.005
+    400014: Bone.006
+    400016: Bone.007
+    400018: Bone.008
+    400020: Bone.009
+    400022: Bone.010
+    400024: Bone.010_end
+    400026: Bone.011
+    400028: Bone.011_end
+    400030: Bone.012
+    400032: Bone.012_end
+    400034: Bone.013
+    400036: Bone.013_end
+    400038: Bone.014
+    400040: Bone.014_end
+    400042: Bone.015
+    400044: Bone.015_end
+    400046: Bone.016
+    400048: Bone.016_end
+    400050: Bone.017
+    400052: Bone.017_end
+    400054: Cilindro
+    400056: Cilindro.001
+    400058: Cilindro.010
+    400060: Esqueleto
+    400062: //RootNode
+    2100000: Material
+    2100002: Material.003
+    2100004: Material.001
+    4300000: Cilindro
+    4300002: Cilindro.010
+    4300004: Cilindro.001
+    7400000: picotear.005
+    7400002: EsqueletoAction
+    7400004: idle
+    7400006: idle2
+    7400008: Esqueleto|caminar
+    7400010: Esqueleto|EsqueletoAction
+    7400012: Esqueleto|idle
+    7400014: Esqueleto|idle2
+    7400016: Esqueleto|picotear
+    7400018: Esqueleto|PoseLib
+    9500000: //RootNode
+    13700000: Cilindro
+    13700002: Cilindro.001
+    13700004: Cilindro.010
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
